@@ -2,26 +2,52 @@
   "repo": "tangyixiao/Shaoxingyizhong-img-legacy-2009-2018",
   "sourceBranch": "main",
   "sourceCommit": null,
+  "designVersion": 3,
+  "direction": {
+    "visualConcept": "茶褐、暗金与胶片黑的旧档案放映桌：三个年代跨度较大的样本按宽窄交错的底片带排布，2009–2018 作为范围字样刻在金属桌缘，低分辨率图片保持诚实清晰。事实边界：历史路径范围，不把路径年份直接等同已核验的拍摄时间，不用AI补景声称修复。",
+    "layout": "atlas",
+    "palette": {
+      "light": {
+        "bg": "#D7CAB5",
+        "surface": "#ECE0C8",
+        "ink": "#3C3025",
+        "muted": "#635240",
+        "accent": "#6e4f34"
+      },
+      "dark": {
+        "bg": "#241E18",
+        "surface": "#392F23",
+        "ink": "#EDDFC5",
+        "muted": "#b9a181",
+        "accent": "#d7b485"
+      }
+    },
+    "threeConcept": "Three.js 制作旧式金属投影片查看器和一条三格底片架，真实照片作为投影片平面，灯箱不使用循环闪烁；桌缘标范围，避免假制造年号或胶片编号。",
+    "distinctiveInteraction": "移动底片架选择真实样本，放大上限与原始分辨率提示同时出现；按来源路径的年份浏览，但明确它是路径字段，不是照片考证结论。"
+  },
   "media": [
     {
       "src": "assets/media/photo-1.webp",
       "alt": "户外演讲，来自绍兴一中公开图片归档",
-      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-legacy-2009-2018/blob/main/UploadFiles/UploadFiles/201808/2018082814330465.jpg"
+      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-legacy-2009-2018/blob/main/UploadFiles/UploadFiles/201808/2018082814330465.jpg",
+      "path": "UploadFiles/UploadFiles/201808/2018082814330465.jpg"
     },
     {
       "src": "assets/media/photo-2.webp",
       "alt": "礼堂活动，来自绍兴一中公开图片归档",
-      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-legacy-2009-2018/blob/main/UploadFiles/UploadFiles/201702/2017021114381848.png"
+      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-legacy-2009-2018/blob/main/UploadFiles/UploadFiles/201702/2017021114381848.png",
+      "path": "UploadFiles/UploadFiles/201702/2017021114381848.png"
     },
     {
       "src": "assets/media/photo-3.webp",
       "alt": "师生交流，来自绍兴一中公开图片归档",
-      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-legacy-2009-2018/blob/main/UploadFiles/UploadFiles/201101/2011012711044880.jpg"
+      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-legacy-2009-2018/blob/main/UploadFiles/UploadFiles/201101/2011012711044880.jpg",
+      "path": "UploadFiles/UploadFiles/201101/2011012711044880.jpg"
     }
   ],
   "skills": [
     "baoyu-design",
     "design-taste-frontend"
   ],
-  "design": "content-first source/product/photography; no rejected template or faux 3D"
+  "flagshipModel": null
 }
