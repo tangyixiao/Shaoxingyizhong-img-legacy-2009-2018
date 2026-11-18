@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "name": "Shaoxingyizhong-img-legacy-2009-2018",
+  "theme": "system",
+  "default_locale": "zh-CN",
+  "locales": [
+    {
+      "code": "zh-CN",
+      "label": "简体中文",
+      "directory": ""
+    },
+    {
+      "code": "en",
+      "label": "English",
+      "directory": "en"
+    }
+  ],
+  "release": "Shaoxingyizhong-img-legacy-2009-2018",
+  "license_label": "Repository information",
+  "links": {
+    "repository": "https://github.com/tangyixiao/Shaoxingyizhong-img-legacy-2009-2018",
+    "download": "https://github.com/tangyixiao/Shaoxingyizhong-img-legacy-2009-2018/tree/main/UploadFiles/UploadFiles/200911",
+    "documentation": "https://github.com/tangyixiao/Shaoxingyizhong-img-legacy-2009-2018/blob/main/manifest.tsv",
+    "release": "https://github.com/tangyixiao/Shaoxingyizhong-img-legacy-2009-2018",
+    "license": "https://github.com/tangyixiao/Shaoxingyizhong/blob/main/RIGHTS.md",
+    "report_issue": "https://github.com/tangyixiao/Shaoxingyizhong-img-legacy-2009-2018/blob/main/manifest.tsv",
+    "suggest_feature": "https://github.com/tangyixiao/Shaoxingyizhong-img-legacy-2009-2018",
+    "contribute": "https://github.com/tangyixiao/Shaoxingyizhong-img-legacy-2009-2018/pulls"
+  },
+  "copyright_notice": "Website template © 2026 Tang Yixiao and contributors",
+  "platforms": [
+    {
+      "name": "Shaoxingyizhong-img-legacy-2009-2018",
+      "href": "https://tangyixiao.github.io/Shaoxingyizhong-img-legacy-2009-2018/"
+    }
+  ]
+}
